@@ -1,2 +1,2 @@
-django-telegrambot==1.0.1
+pyTelegramBotAPI==3.5.2
 requests==2.18.4
