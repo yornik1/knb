@@ -1,1 +1,1 @@
-web: python botapi.py
+worker: python botapi.py
